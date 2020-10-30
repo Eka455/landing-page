@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siekspress - Ongkir</title>
+</head>
+<body style="background-color: gainsboro;">
+
+   <header style="background-color:honeydew;">
+       <a href="home.html">
+               <img src="SIEKSPRESS JADI.png"
+                width="350" height="150"
+                style="display: block; margin: auto;">
+            <nav>
+             <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="tentang.html">Tentang Meluncur</a></li>
+                <li><a href="resi.html">Cek Resi</a></li>
+                <li><a href="ongkir.html">Ongkir</a></li>
+                <li><a href="cabang.html">Lokasi Cabang</a></li>
+                <li><a href="kontak.html">Contact</a></li>
+             </ul>
+    </header>
+    <h2 align="center">-LOKASI CABANG-</h2>
+    <table style="background-color:floralwhite;" cellspacing="7" 
+            cellpadding="6" align="center" " border="1"
+            width="700" height="400">
+        <thead>
+            <p>
+                <tr>
+                    <th colspan="4">JABODETABEK</th>
+                </tr>
+                <tr>
+                    <th>No.</th>
+                    <th>Kota</th>
+                    <th>Cabang</th>
+                    <th>Alamat</th>
+                </tr>
+        </thead>
+        <tbody>
+                <tr>
+                    <td>1.</td>
+                    <td>Jakarta Barat</td>
+                    <td>SiMeluncur Jakarta</td>
+                    <td>Komp. Ruko Green Garden Blk. A7 -50,<br/>
+                        Jl. Panjang Arteri Klp. Dua Raya No.1, RT.1/RW.4,<br/>
+                        Kedoya Utara, Kec. Kb. Jeruk, Kota Jakarta Barat,<br/>
+                        Daerah Khusus Ibukota Jakarta 11520</td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>Bogor</td>
+                    <td>SiMeluncur Bogor</td>
+                    <td>Jl. Salak No.38-40, RT.03/RW.04, Babakan,<br/>
+                        Kecamatan Bogor Tengah, Kota Bogor,<br/>
+                        Jawa Barat 16129</td>
+                </tr>
+                <tr>
+                    <td>3.</td>
+                    <td>Depok</td>
+                    <td>SiMeluncur Depok</td>
+                    <td>Jl. Raya Parung Ciputat No.23, Bojongsari Baru,<br/>
+                        Kec. Bojongsari, Kota Depok, Jawa Barat 16516</td>
+                </tr>
+                <tr>
